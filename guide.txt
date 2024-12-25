@@ -1,0 +1,61 @@
+# Gurasa Restaurant Ordering App - Pages Inventory
+
+## Essential Pages for Mobile App
+
+1. Home Page
+   - Introduction to the restaurant
+   - Promotional banners
+   - Featured menu items
+   - Navigation links to other pages
+
+2. Menu Page
+   - List of all available dishes
+   - Categories (e.g., starters, main courses, desserts, drinks)
+   - Search and filter options
+   - Detailed view of each menu item
+
+3. Item Detail Page
+   - Detailed description of the selected menu item
+   - Ingredients and nutritional information
+   - Add to cart button
+   - Reviews and ratings
+
+4. Cart Page
+   - List of items added to the cart
+   - Quantity adjustment for each item
+   - Remove item option
+   - Summary of total cost
+   - Proceed to checkout button
+
+5. Checkout Page
+   - Billing and shipping information form
+   - Payment method selection
+   - Order summary
+   - Place order button
+
+6. Order Confirmation Page
+   - Order confirmation message
+   - Order details and summary
+   - Estimated delivery time
+   - Thank you note
+
+7. Login/Sign Up Page
+   - Form for users to log in or create a new account
+   - Options for social login (e.g., Google, Facebook)
+
+8. User Profile Page
+   - User information and account settings
+   - Order history
+   - Favorite items
+   - Option to edit personal details
+
+9. Admin Dashboard (if applicable)
+   - Overview of restaurant statistics (e.g., total orders, sales)
+   - Menu management (add/edit/delete items)
+   - Order management (view and update order status)
+   - User management (view and manage users)
+
+10. Contact Us Page
+    - Contact form
+    - Restaurant contact information (phone number, email, address)
+    - Map with restaurant location
