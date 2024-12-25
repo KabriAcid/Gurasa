@@ -5,7 +5,7 @@ import HomePage from "./pages/HomePage";
 import MenuPage from "./pages/MenuPage";
 import CartPage from "./pages/CartPage";
 import CheckoutPage from "./pages/CheckoutPage";
-import "./styles.css";
+import "./index.css";
 
 const App = () => {
   return (
